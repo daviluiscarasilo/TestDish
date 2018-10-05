@@ -1,0 +1,17 @@
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\bin\Debug\Day's Dishes.exe.config
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\bin\Debug\Day's Dishes.exe
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\bin\Debug\Day's Dishes.pdb
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.csprojResolveAssemblyReference.cache
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.csproj.CoreCompileInputs.cache
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.exe
+C:\Users\Davi Luis Carasilo\source\repos\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.pdb
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\bin\Debug\Day's Dishes.exe.config
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\bin\Debug\Day's Dishes.exe
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\bin\Debug\Day's Dishes.pdb
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\bin\Debug\CommonModels.dll
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\bin\Debug\CommonModels.pdb
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.csprojAssemblyReference.cache
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.csproj.CoreCompileInputs.cache
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.csproj.CopyComplete
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.exe
+C:\Users\davi.carasilo\Documents\Davi\Day's Dishes\Day's Dishes\obj\Debug\Day's Dishes.pdb
